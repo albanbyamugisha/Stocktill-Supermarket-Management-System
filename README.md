@@ -515,4 +515,4 @@ docker compose run --rm backend python manage.py migrate
 
 # License
 
-Released for the competition submission; contact the author for reuse.
+Developed by Group I as part of the StockTill Supermarket Management System project for the Requirements Engineering course.
